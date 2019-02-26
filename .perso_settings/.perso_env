@@ -1,0 +1,8 @@
+# added by Miniconda3 installer
+export PATH="/home/wesley/miniconda3/bin:$PATH"
+
+# Personal Repositories
+export REPOS=~/Repos
+
+# Knowledge Repo
+export KNOWLEDGE_REPO=~/Repos/research_knowledge_repo

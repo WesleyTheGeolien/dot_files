@@ -1,0 +1,7 @@
+# From default bashrc
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Personal
+alias rm='rm -i'
